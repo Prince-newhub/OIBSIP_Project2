@@ -1,4 +1,4 @@
-# OIBSIP_Project3
+# OIBSIP_Project2
 BMI Calculator
 Author-Prince Suresh Vishwakarma
 
